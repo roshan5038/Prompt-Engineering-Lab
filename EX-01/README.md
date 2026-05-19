@@ -1,69 +1,140 @@
+````md
+# Generative AI and Large Language Models (LLMs) – README
 
-Ex-1 Comprehensive Report on the Fundamentals of Generative AI and Large Language Models
-Opened: 30 April 2026, 08:00 AM
-Due: 07 May 2026, 11:00 PM
+## Experiment Title
+**Ex-1 Comprehensive Report on the Fundamentals of Generative AI and Large Language Models**
 
-Aim
-To understand the fundamentals of Generative AI and Large Language Models (LLMs), including their architecture, working, applications, and impact.
+---
 
-Experiment
-Develop a comprehensive report for the following:
+## Aim
+To understand the fundamentals of Generative AI and Large Language Models (LLMs), including their architecture, working principles, applications, and impact.
 
-Explain the foundational concepts of Generative AI.
-Explain transformer architecture and its working.
-Explain applications of Generative AI.
-Explain the impact of scaling in Large Language Models (LLMs).
-Explain how Large Language Models are built.
-Algorithm
-Define the objective of the experiment.
-Collect information using AI tools (e.g., ChatGPT).
-Generate content using appropriate prompts.
-Verify and rewrite the content in your own words.
-Organize the report with proper structure.
-Include diagrams, tables, and examples wherever required.
-Format the report neatly (Title page, headings, sections).
-Review for correctness and clarity.
-Convert the report into PDF format.
-Upload the required files to GitHub.
-Submission Format
-Create a folder with the following naming format:
+---
 
+## Objective
+The objective of this experiment is to study how Generative AI works, understand transformer architecture, explore the training process of Large Language Models, and analyze their applications, benefits, limitations, and ethical concerns.
+
+---
+
+# Experiment Details
+
+## Topics Covered
+The report explains the following concepts:
+
+- Fundamentals of Generative AI
+- Transformer Architecture and Working
+- Applications of Generative AI
+- Impact of Scaling in Large Language Models
+- Building and Training Large Language Models
+
+---
+
+# Algorithm
+
+1. Define the objective of the experiment.
+2. Collect information using AI tools such as ChatGPT.
+3. Generate content using suitable prompts.
+4. Verify and rewrite the generated content in your own words.
+5. Organize the report with proper structure.
+6. Add diagrams, examples, and tables wherever necessary.
+7. Format the report neatly with headings and sections.
+8. Review the report for clarity and correctness.
+9. Convert the report into PDF format.
+10. Upload the required files to GitHub.
+
+---
+
+# Report Structure
+
+The report must contain the following sections:
+
+1. Title Page  
+2. Abstract / Executive Summary  
+3. Introduction  
+4. AI and Machine Learning Basics  
+5. What is Generative AI  
+6. Types of Generative Models  
+7. Introduction to Large Language Models (LLMs)  
+8. Transformer Architecture  
+9. Training Process of LLMs  
+10. Impact of Scaling  
+11. Applications of Generative AI  
+12. Limitations and Ethical Considerations  
+13. Conclusion  
+14. References  
+
+---
+
+# Folder Structure
+
+Create a folder using the following naming convention:
+
+```bash
 RollNo_Name
+````
 
-Example:
+### Example
+
+```bash
 2122250406102_Sriram
+```
 
-Inside the folder, upload:
+---
 
-PDF Report
-Screenshots of prompts used
-Prompt outputs
-Report Structure (Important)
-Your report must include:
+# Files to Upload
 
-Title Page
-Abstract / Executive Summary
-Introduction
-AI and Machine Learning Basics
-What is Generative AI
-Types of Generative Models
-Introduction to Large Language Models (LLMs)
-Transformer Architecture
-Training Process of LLMs
-Impact of Scaling
-Applications of Generative AI
-Limitations and Ethical Considerations
-Conclusion
-References
-Output
-A well-structured report explaining Generative AI concepts, LLM architecture, training process, applications, and real-world usage.
+Inside the folder, upload the following files:
 
-Result
+* PDF Report
+* Screenshots of Prompts Used
+* Prompt Outputs
+
+---
+
+# Output
+
+A well-structured report explaining:
+
+* Generative AI concepts
+* Transformer architecture
+* Large Language Model training process
+* Applications of Generative AI
+* Real-world use cases and impacts
+
+---
+
+# Result
+
 Thus, the fundamentals of Generative AI and Large Language Models were studied and understood successfully.
 
-Instructions
-Use ChatGPT to generate content.
-Do not copy-paste directly — rewrite in your own words.
-Include diagrams and examples wherever possible.
-Maintain neat formatting and proper headings.
-Ensure originality in your submission.
+---
+
+# Important Instructions
+
+* Use ChatGPT or other AI tools to generate content.
+* Do not directly copy-paste generated content.
+* Rewrite the content in your own words.
+* Include diagrams, examples, and tables wherever possible.
+* Maintain proper formatting and headings.
+* Ensure originality and clarity in the report.
+
+---
+
+# Suggested Tools
+
+* ChatGPT
+* GitHub
+* Canva
+* Google Docs
+
+---
+
+# References
+
+* Research articles on Generative AI and LLMs
+* OpenAI documentation
+* Transformer research papers
+* Online AI learning resources and tutorials
+
+```
+```
