@@ -1,4 +1,4 @@
-````md
+
 # Generative AI and Large Language Models (LLMs) – README
 
 ## Experiment Title
@@ -79,7 +79,7 @@ RollNo_Name
 2122250406102_Sriram
 ```
 
----
+
 
 # Files to Upload
 
